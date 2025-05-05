@@ -1,4 +1,4 @@
-Contoh stateless dan stateful
+CONTOH STATELESS DAN STATEFUL
 
 Contoh Stateless versi 1
 
